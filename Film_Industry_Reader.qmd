@@ -5,6 +5,7 @@ format:
    gfm: 
      output-file: Film_Industry_Reader.md
      html-math-method: webtex
+   epub: default
 author:
   - name: Daniel Antal
     orcid: 0000-0003-1689-0557
