@@ -8,6 +8,11 @@
 
 # User-specific files
 .Ruserdata
+Film_Industry_Reader_files/
+Film_Industry_Reader.html
+film-industry-reader.Rproj
+_quarto.bak
+utils.R
 
 # Example code in package build process
 *-Ex.R
@@ -39,11 +44,10 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
-
 # translation temp files
 po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+/.quarto/
